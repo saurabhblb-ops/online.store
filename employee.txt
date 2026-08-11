@@ -1,0 +1,7 @@
+emplyee 1
+salary 55555
+emplyee 2
+salary
+66666
+employee 3
+salary 77777`
