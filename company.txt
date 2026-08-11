@@ -2,4 +2,9 @@ company
 services
 manager
 brand
-logo
+boss
+employee
+tabboss
+employee
+table
+pcc
